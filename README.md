@@ -1,7 +1,7 @@
 # aula-html-ebac
 Aqui foi feito só um projeto simples
 em HTML
-a tútiulo de estudo para enterder um pouco sobre JavaScript
+a título de estudo para enterder um pouco sobre JavaScript
 
 </p>
 <br/><br/>
